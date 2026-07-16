@@ -12,3 +12,5 @@ Steps:
 4.edit the Mimic by right clicking and hitting edit. Change the "WWW" and "HHH" value to desired width and height!
 
 If using a multi monitor set-up, set display monitor in the Manage menu to auto-select or manually select monitor.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WUuLp2Fa5CI?si=qjDwmyppwl3GPpWu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
