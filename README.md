@@ -1,4 +1,4 @@
-Ever wanted to have the practical use of desktop icons without the hideous blanket covering your well make backgrounds? Well, this is a skin for Rainmeter that creates a image that copies your background. This will cover your desktop icons with seemingly nothing!
+Ever wanted to have the practical use of desktop icons without the hideous blanket covering your well make backgrounds? Well, this is a skin for Rainmeter that creates a image that copies your background. This will cover your desktop icons with A fake background!
 Steps:
 1.download rmskin file and open.
 
